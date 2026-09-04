@@ -1,7 +1,7 @@
 {
   "name": "電商易 EshopEasy",
   "short_name": "電商易",
-  "description": "香港中小企網站同 App 服務",
+  "description": "香港中小企網站及 iOS App 服務",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
