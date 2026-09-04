@@ -18,13 +18,15 @@ python3 -m http.server 8080
 
 上線目標：<https://katanli.github.io/katan-studio/>
 
+私隱政策：<https://katanli.github.io/katan-studio/privacy.html>
+
 1. 將 `main` 推送至 GitHub（本倉庫的預設分支）。
 2. 開啟 **Settings → Pages**。
 3. **Source** 選擇 **Deploy from a branch**。
 4. Branch 選擇 **`main`**，資料夾選擇 **`/ (root)`**。
 5. 儲存。數分鐘後即可使用上述 Pages 網址。
 
-無需 Jekyll build（已放置 `.nojekyll`）。`index.html`、`css/`、`js/`、`assets/` 全部使用相對路徑，於 `/katan-studio/` 底下可正常載入。
+無需 Jekyll build（已放置 `.nojekyll`）。`index.html`、`privacy.html`、`css/`、`js/`、`assets/` 全部使用相對路徑，於 `/katan-studio/` 底下可正常載入。
 
 ## 內容備註
 
