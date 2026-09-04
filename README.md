@@ -2,7 +2,7 @@
 
 香港中小企網站同 App 宣傳頁。公開品牌係 **電商易**（中文）／ **EshopEasy**（英文）。倉庫名維持 `katan-studio`，GitHub Pages 路徑係 [`/katan-studio/`](https://katanli.github.io/katan-studio/)。
 
-負責人：Katan Li（[github.com/katanli](https://github.com/katanli)）。查詢 WhatsApp：[wa.me/85298741681](https://wa.me/85298741681)。
+負責人：Katan Li（[github.com/katanli](https://github.com/katanli)）。查詢 WhatsApp：[wa.me/85251057090](https://wa.me/85251057090)。
 
 ## 本機預覽
 
@@ -31,4 +31,4 @@ python3 -m http.server 8080
 - 套餐價（港幣）：Starter HK$6,800；Business HK$14,800；網店／預約由 HK$24,800 起；每月保養 HK$280–480。
 - iOS App 係進階項目，頁面只寫「另行報價」。
 - 作品例子只放已上線嘅 [Wonderland JP](https://katanli.github.io/wonderland-jp/)，冇假評價、假 logo。
-- WhatsApp 號碼而家同現有舖頭共用，當查詢線／placeholder。
+- 查詢 WhatsApp：+852 5105 7090。
