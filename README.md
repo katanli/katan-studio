@@ -2,7 +2,7 @@
 
 香港中小企網站及 iOS App 宣傳頁。公開品牌為 **電商易**（中文）／ **EshopEasy**（英文）。倉庫名稱維持 `katan-studio`，GitHub Pages 路徑為 [`/katan-studio/`](https://katanli.github.io/katan-studio/)。
 
-聯絡查詢 WhatsApp：[wa.me/85251057090](https://wa.me/85251057090)。
+聯絡人：電商易技術顧問。查詢 WhatsApp：[wa.me/85251057090](https://wa.me/85251057090)。
 
 ## 本機預覽
 
