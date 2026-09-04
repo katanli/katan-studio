@@ -1038,5 +1038,5 @@ a { text-decoration: none; }
     margin-right: auto;
     max-width: 100%;
   }
-  .v-label { font-size: 0.66rem; letter-spacing: 0.3em; }
+  .v-label { display: none; }
 }
