@@ -1019,6 +1019,124 @@ a { text-decoration: none; }
   color: rgba(244, 240, 232, 0.5);
 }
 
+.foot-bottom a {
+  color: rgba(244, 240, 232, 0.72);
+}
+
+.foot-bottom a:hover,
+.foot-bottom a[aria-current="page"] {
+  color: #fff;
+}
+
+/* ---------- legal / privacy ---------- */
+.page-legal .site-header {
+  background: rgba(244, 240, 232, 0.9);
+  backdrop-filter: blur(16px) saturate(1.15);
+  -webkit-backdrop-filter: blur(16px) saturate(1.15);
+  box-shadow: 0 1px 0 var(--line);
+}
+
+.legal-hero {
+  padding: 7.5rem 0 2.6rem;
+}
+
+.legal-hero h1 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: clamp(2.2rem, 6vw, 3.4rem);
+  letter-spacing: 0.04em;
+  line-height: 1.15;
+  margin: 0 0 0.9rem;
+}
+
+.legal-lede {
+  margin: 0;
+  max-width: 38rem;
+  font-size: 1.05rem;
+}
+
+.legal-updated {
+  margin: 1rem 0 0;
+  font-family: var(--latin);
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.legal-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1.4rem 0 0;
+}
+
+.legal-toc a {
+  font-size: 0.78rem;
+  padding: 0.32rem 0.72rem;
+  border-radius: 999px;
+  background: var(--white);
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+
+.legal-toc a:hover {
+  border-color: var(--teal);
+  color: var(--teal-dark);
+}
+
+.legal-doc {
+  background: var(--white);
+  border-radius: 2.2rem 2.2rem 0 0;
+  padding: clamp(2.4rem, 6vw, 4.2rem) 0 clamp(2.2rem, 5vw, 3.4rem);
+}
+
+.legal-wrap { max-width: 44rem; }
+
+.legal-section {
+  margin: 0 0 2.15rem;
+  scroll-margin-top: 5.5rem;
+}
+
+.legal-section:last-child { margin-bottom: 0; }
+
+.legal-section h2 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.35rem;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.7rem;
+  line-height: 1.35;
+}
+
+.legal-section p {
+  margin: 0 0 0.85rem;
+}
+
+.legal-section p:last-child { margin-bottom: 0; }
+
+.legal-section ul {
+  margin: 0 0 0.85rem;
+  padding: 0 0 0 1.15rem;
+  color: var(--muted);
+}
+
+.legal-section li { margin: 0 0 0.4rem; }
+
+.legal-section a {
+  color: var(--teal-dark);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.legal-contact-card {
+  margin: 1rem 0 0 !important;
+  padding: 1.15rem 1.2rem;
+  background: var(--paper);
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  max-width: 28rem;
+}
+
 .wa-float {
   position: fixed;
   right: 1.1rem;
